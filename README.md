@@ -1,3 +1,7 @@
+Smarticle
+==========
+
+
 Smarticles are data-driven, personalized articles. The goal is to create an easy interface to create templates and queries for using a structured journalism repository within narratives.
 
 All that really means is that it's a tool to personalize articles toward individual readers.
